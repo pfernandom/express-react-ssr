@@ -1,0 +1,1 @@
+npm install --save parcel react react-dom express nodemon

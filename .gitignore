@@ -1,0 +1,5 @@
+public/index.js
+public/index.css
+node_modules
+.parcel-cache
+dist
